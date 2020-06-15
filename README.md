@@ -8,3 +8,8 @@
 
     make          # self documented makefile
     make install  # install and start the project
+    
+    
+## Content
+
+Contains php/nginx docker and docker-compose configuration
